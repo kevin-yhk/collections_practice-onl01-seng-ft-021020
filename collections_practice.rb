@@ -38,5 +38,6 @@ end
 
 def sum_array(array)
   sum = 0 
-  arrya.inject(0) {|sum,x|
+  array.inject(0) {|sum,x| sum + x}
+end
     
