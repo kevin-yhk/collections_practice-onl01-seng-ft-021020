@@ -15,4 +15,4 @@ end
 def swap_elements(array)
   array_1 = array[1]
   array[1] = array[2]
-  
+  array[2] = arr
