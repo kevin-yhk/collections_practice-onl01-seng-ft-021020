@@ -28,4 +28,5 @@ def kesha_maker(array)
   array.each do |dolla|
     dolla[2] = $ 
   end
+end
     
